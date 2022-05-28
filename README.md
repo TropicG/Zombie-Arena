@@ -14,3 +14,8 @@ How I structed the project:
 - Zombie having a class and checking has it colladed with bullet or the player
 - Function that spawn the zombie and creating the arena using VertexArray
 - Texture Holder class that stores the textures for the different sprites using map
+
+
+What is going to be added in the future:
+- The player will unlocks different guns on different kill count
+- New maps
